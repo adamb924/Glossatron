@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="gaulap.bin">resources/gaulap.bin</file>
+        <file alias="gaulap_double.bin">resources/gaulap_double.bin</file>
+        <file alias="filter_512_1024.bin">resources/filter_512_1024.bin</file>
+    </qresource>
+</RCC>
